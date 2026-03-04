@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
   
-  <h2 align="center">🔄️ Discord Status Rotator</h2>
+  <h2 align="center">🔄️ Siebe Discord Status Rotator</h2>
 
   <p align="center">
     This script allows you to change the status of your Discord account automatically from the statuses defined in a text file and extras.
